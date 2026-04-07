@@ -14,4 +14,4 @@
 
 ## Код
 
-[Переглянути код]
+[Переглянути код](https://github.com/vladyslavppfk2/OOP-Practice-Derienko/tree/main/Task2/src/main/java/com/example)
