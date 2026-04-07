@@ -1,0 +1,10 @@
+
+package com.example;
+
+import java.lang.annotation.*;
+
+@Retention(RetentionPolicy.RUNTIME)
+@Target(ElementType.METHOD)
+public @interface Statistic {
+    String name();
+}
